@@ -4,7 +4,7 @@
 
 コンパイルしてスタートアップフォルダーに登録することで以下の機能が提供されます。
 
-* 左AltでIMEオフ、右AltでIMEオン
+* 左AltでIMEオフ / 右AltでIMEオン
 * Ctrl+HでBackspace
 
 ## 使い方
@@ -30,3 +30,4 @@ Windows11 for Arm64でも動作可能（エミュレーションモード）
 
 IME制御関数の元リポジトリ
 <https://github.com/k-ayaki/IMEv2.ahk>
+<https://github.com/karakaram/alt-ime-ahk> (AHK v1)
